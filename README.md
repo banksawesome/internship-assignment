@@ -28,12 +28,12 @@ cd internship-assignment
 \`\`\`
 
 2. Install dependencies:
-\`\`\`bash
+\`\`\`cmd
 npm install
 \`\`\`
 
 3. Run the development server:
-\`\`\`bash
+\`\`\`cmd
 npm run dev
 \`\`\`
 
