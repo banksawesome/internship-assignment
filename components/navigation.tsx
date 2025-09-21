@@ -36,7 +36,7 @@ export function Navigation() {
   {/* Middle section */}
   <div className="flex items-center justify-center">
   <div className="hidden md:flex flex items-center justify-between rounded-2xl bg-secondary/50 px-3 py-1 w-72">
-    <Button variant="ghost" size="sm" className="h-8 w-8 bg-accent">
+    <Button variant="ghost" size="sm" className="h-8 w-8 bg-white">
       <Home className="h-4 w-4" />
     </Button>
     <Button variant="ghost" size="sm" className="h-8 w-8">
@@ -92,7 +92,7 @@ export function Navigation() {
           <div className="md:hidden border-t border-border py-4">
             <div className="flex flex-col space-y-2">
               <div className="flex items-center justify-center space-x-1 mb-4 shadow-2xsm rounded-2xl bg-secondary/50 px-3 py-1">
-                <Button variant="ghost" size="sm" className="h-8 w-8 bg-accent px-3 py-1">
+                <Button variant="ghost" size="sm" className="h-8 w-8 bg-white px-3 py-1">
                   <Home className="h-4 w-4" />
                 </Button>
                 <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
